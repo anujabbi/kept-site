@@ -1,6 +1,6 @@
 # KEPT site
 
-Marketing page for KEPT (Keep Every Promise Today), served with GitHub Pages.
+Marketing page for **KEPT (Keep Every Promise Today)** — Android habit-lock: apps stay locked until daily habits are done.
 
 - Live: https://anujabbi.github.io/kept-site/
 - Privacy (Play): https://anujabbi.github.io/kept-site/privacy-policy.html
